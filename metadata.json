@@ -1,0 +1,8 @@
+{
+  "name": "DevPulse - Professional Portfolio & AI Assistant",
+  "description": "A high-end, modern developer portfolio featuring an integrated Gemini-powered AI twin to answer questions about skills, experience, and projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
